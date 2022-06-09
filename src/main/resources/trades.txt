@@ -1,0 +1,5 @@
+init
+2000
+calculate
+100
+finish
